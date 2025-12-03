@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "FrankVerhoeven\\AdventOfCode\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.4",
+        "phpunit/phpunit": "^12.4"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}
